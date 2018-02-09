@@ -1,1 +1,1 @@
-# Determination-of-the-day-of-the-week. Console app the calculate the day of the week + counts how many times a date has been repeated as a day of the week in a given period(e.g. how many times 03.03 happened to be on Wednesday in period 1900-1999)
+# Determination-of-the-day-of-the-week. Console app that calculate the day of the week + counts how many times a date has been repeated as a day of the week in a given period(e.g. how many times 03.03 happened to be on Wednesday in period 1900-1999)
